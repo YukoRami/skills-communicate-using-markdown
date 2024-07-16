@@ -5,3 +5,8 @@
 ``` Python
 intro = 'yo le rap'
 ```
+
+Things to do:
+- [ ] Start a gaming channel
+- [x] Eat a kebab
+- [ ] Adopt a cat
